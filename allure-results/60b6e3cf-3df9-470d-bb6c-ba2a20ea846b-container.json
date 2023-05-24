@@ -1,0 +1,1 @@
+{"uuid":"60b6e3cf-3df9-470d-bb6c-ba2a20ea846b","name":"saucedemo","children":["1bd9deef-5261-40a5-a20a-b83becc2a950"],"befores":[],"afters":[{"name":"ClearAllCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1684935748524,"stop":1684935748542}],"start":1684935747258,"stop":1684935748543}
